@@ -1,0 +1,13 @@
+S 10
+D 1
+A 1
+C 42
+A 1
+B 2
+Zhiravr 1
+Kot 1
+Vasya 2
+Grusha 3
+panasiuk 8
+Apum 5
+55 7
